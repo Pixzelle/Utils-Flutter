@@ -1,5 +1,7 @@
 import 'dart:convert';
 
+import 'package:flutter/material.dart';
+import 'package:utils_flutter/app_localizations.dart';
 import 'package:utils_flutter/extensions/routing_data.dart';
 
 extension StringExtensions on String? {
@@ -15,6 +17,14 @@ extension StringExtensions on String? {
       return "";
     }
     return '${this?[0].toUpperCase()}${this?.substring(1)}';
+  }
+
+  String translate(BuildContext context) {
+    return AppLocalization.of(context)?.translate(this!) ?? "";
+  }
+
+  String translateCapitalized(BuildContext context) {
+    return translate(context).capitalize;
   }
 
   Map get toJson {
