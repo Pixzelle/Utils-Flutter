@@ -18,9 +18,7 @@ class AppLocalization {
 
   Future<bool> load() async {
     var languageCode = "es";
-    if(locale.languageCode != "es"){
-      languageCode = "es";
-    }else {
+    if(locale.languageCode != languageCode){
       languageCode = locale.languageCode;
     }
 
