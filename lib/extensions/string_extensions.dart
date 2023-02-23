@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:utils_flutter/app_localizations.dart';
-import 'package:utils_flutter/extensions/routing_data.dart';
+import 'package:pixzelle_utils/app_localizations.dart';
+import 'package:pixzelle_utils/extensions/routing_data.dart';
 
 extension StringExtensions on String? {
   RoutingData get getRoutingData {

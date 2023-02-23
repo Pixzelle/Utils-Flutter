@@ -6,7 +6,7 @@ Flutter Utilities V 0.0.1
 - [Tabla de contenido](#tabla-de-contenido)
 - [Repositorios](#repositorios)
 - [Equipo](#equipo)
-- [Apps](#apps)
+- [Utilidades](#utilidades)
 
 ## Repositorio
 
@@ -15,3 +15,12 @@ Flutter Utilities V 0.0.1
 ## Equipo
 
 - [Pixzelle Studio](https://www.pixzelle.mx)
+
+
+## Utilidades
+
+1. Strings Extensions.
+2. Double Extensions.
+3. Map Navigation Extensions.
+4. Enums for device type screen
+5. App Localizations

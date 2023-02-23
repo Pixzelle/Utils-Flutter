@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:utils_flutter/enums/nav_app.dart';
+import 'package:pixzelle_utils/enums/nav_app.dart';
 
 
 extension NavAppExtension on NavApp {
