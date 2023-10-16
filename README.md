@@ -1,6 +1,6 @@
 # Flutter Utilities
 
-Flutter Utilities V 0.0.1
+Flutter Utilities V 0.0.2
 
 ## Tabla de contenido
 - [Tabla de contenido](#tabla-de-contenido)
@@ -24,3 +24,6 @@ Flutter Utilities V 0.0.1
 3. Map Navigation Extensions.
 4. Enums for device type screen
 5. App Localizations
+
+## FlutterVersion
+3.13.6
