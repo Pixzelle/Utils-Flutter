@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.3
 
-* Initial version 
+- Updated Flutter version compatibility to 3.24.3

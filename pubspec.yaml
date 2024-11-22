@@ -4,8 +4,8 @@ version: 0.0.3
 homepage: https://github.com/Pixzelle/Utils-Flutter
 
 environment:
-  sdk: '>=2.16.0 <3.0.0'
-  flutter: ">=3.13.6 <4.0.0"
+  sdk: '>=2.19.0 <4.0.0'
+  flutter: '>=3.24.3'
 
 dependencies:
   flutter:
